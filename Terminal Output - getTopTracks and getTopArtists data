@@ -1,0 +1,756 @@
+Last login: Mon Dec  7 14:01:39 on ttys000
+-bash: export: `=': not a valid identifier
+-bash: export: `/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/:/Users/admin/.rvm/gems/ruby-2.2.1/bin:/Users/admin/.rvm/gems/ruby-2.2.1@global/bin:/Users/admin/.rvm/rubies/ruby-2.2.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/admin/.rvm/bin': not a valid identifier
+admins-MacBook-Pro:~ admin$ cd Desktop/lastfm-data
+admins-MacBook-Pro:lastfm-data admin$ python csv-reader.py
+rcsouthard's top list:
+	At Rank #1 is Youth Without Youth by Metric with a playcount of 38
+	At Rank #2 is Ænima by Tool with a playcount of 36
+	At Rank #3 is "45" by The Gaslight Anthem with a playcount of 36
+	At Rank #4 is Doused by DIIV with a playcount of 36
+	At Rank #5 is Forty Six by Tool with a playcount of 29
+	At Rank #6 is Clouds by The Long Winters with a playcount of 29
+	At Rank #7 is Nascence by Austin Wintory with a playcount of 28
+	At Rank #8 is Avant Gardener by Courtney Barnett with a playcount of 28
+	At Rank #9 is Elvish Piper Academy by Lifeformed with a playcount of 24
+	At Rank #10 is Fifty FPS Forest by Lifeformed with a playcount of 24
+cheshire137's top list:
+	At Rank #1 is The Rip by Portishead with a playcount of 70
+	At Rank #2 is Eyes on Fire by Blue Foundation with a playcount of 68
+	At Rank #3 is Le Roi Est Mort Vive Le Roi by Enigma with a playcount of 63
+	At Rank #4 is Machine Gun by Portishead with a playcount of 57
+	At Rank #5 is Hunter by Portishead with a playcount of 54
+	At Rank #6 is Silence by Portishead with a playcount of 54
+	At Rank #7 is Gun by CHVRCHES with a playcount of 54
+	At Rank #8 is Nylon Smile by Portishead with a playcount of 53
+	At Rank #9 is Obedear by Purity Ring with a playcount of 51
+	At Rank #10 is Utopia by Goldfrapp with a playcount of 50
+aakksshhaayy's top list:
+alexcheser's top list:
+	At Rank #1 is Euphoria by Loreen with a playcount of 216
+	At Rank #2 is Style by Taylor Swift with a playcount of 180
+	At Rank #3 is I Took a Little Something by Florrie with a playcount of 155
+	At Rank #4 is My Heart Is Refusing Me by Loreen with a playcount of 153
+	At Rank #5 is Wanna Be Your Baby by Zara Larsson with a playcount of 153
+	At Rank #6 is American Girl by Bonnie McKee with a playcount of 146
+	At Rank #7 is Jealous by Nick Jonas with a playcount of 144
+	At Rank #8 is On Hold by Shackles with a playcount of 142
+	At Rank #9 is I Love It (feat. Charli XCX) by Icona Pop with a playcount of 141
+	At Rank #10 is Losing You by Solange with a playcount of 130
+xLeachimx's top list:
+	At Rank #1 is Sweet Transvestite by Soundtrack with a playcount of 3
+	At Rank #2 is Falling In Hate by Five Finger Death Punch with a playcount of 2
+	At Rank #3 is Scary Monsters (And Super Creeps) (1999 Remastered Version) by David Bowie with a playcount of 2
+	At Rank #4 is Bück Dich by Rammstein with a playcount of 1
+	At Rank #5 is Feuer frei! by Rammstein with a playcount of 1
+	At Rank #6 is Ich will by Rammstein with a playcount of 1
+	At Rank #7 is Sehnsucht by Rammstein with a playcount of 1
+	At Rank #8 is Piano Man by Billy Joel with a playcount of 1
+	At Rank #9 is Rammstein by Rammstein with a playcount of 1
+	At Rank #10 is The Ballad Of Billy The Kid by Billy Joel with a playcount of 1
+wjlloyd16's top list:
+	At Rank #1 is Love Like Crazy by Lee Brice with a playcount of 5
+	At Rank #2 is 19 You + Me by Dan + Shay with a playcount of 4
+	At Rank #3 is Wild At Heart by Gloriana with a playcount of 3
+	At Rank #4 is Anywhere with You by Jake Owen with a playcount of 3
+	At Rank #5 is Meteor Shower by Owl City with a playcount of 2
+	At Rank #6 is Niggas in Paris by Jay-Z & Kanye West with a playcount of 2
+	At Rank #7 is Nothin' Like You by Dan + Shay with a playcount of 2
+	At Rank #8 is Lovely by Sara Haze with a playcount of 2
+	At Rank #9 is Home by Sundy Best with a playcount of 2
+	At Rank #10 is Feel Good Song by Timothy Baker with a playcount of 2
+azadams's top list:
+	At Rank #1 is Roses by OutKast with a playcount of 29
+	At Rank #2 is Episode 3 by Drunks and Dragons with a playcount of 6
+	At Rank #3 is Monkey Wrench by Foo Fighters with a playcount of 4
+	At Rank #4 is S.O.B. by Nathaniel Rateliff with a playcount of 4
+	At Rank #5 is Trying So Hard Not To Know by Nathaniel Rateliff with a playcount of 4
+	At Rank #6 is Wasting Time by Nathaniel Rateliff with a playcount of 4
+	At Rank #7 is Inside by Toad The Wet Sprocket with a playcount of 3
+	At Rank #8 is Like a Rock by Bob Seger & The Silver Bullet Band with a playcount of 3
+	At Rank #9 is Ep. 1: Here There Be Gerblins - Chapter One by The Adventure Zone with a playcount of 3
+	At Rank #10 is I've Been Failing by Nathaniel Rateliff with a playcount of 3
+sugarfizzpop's top list:
+tdbrandenburg's top list:
+	At Rank #1 is Dear Sergio by Streetlight Manifesto with a playcount of 1
+	At Rank #2 is Ungrateful by Streetlight Manifesto with a playcount of 1
+	At Rank #3 is Confessions (feat. Leland Whitty) by BADBADNOTGOOD with a playcount of 1
+jillgraeter's top list:
+mudrak4's top list:
+	At Rank #1 is One Week by Barenaked Ladies with a playcount of 85
+	At Rank #2 is Older by Band of Horses with a playcount of 51
+	At Rank #3 is Danger Zone by Kenny Loggins with a playcount of 44
+	At Rank #4 is Meet Me In the City by The Black Keys with a playcount of 40
+	At Rank #5 is 'Cause I'm A Man by Tame Impala with a playcount of 36
+	At Rank #6 is Detlef Schrempf by Band of Horses with a playcount of 35
+	At Rank #7 is An Ocean in Between the Waves by The War on Drugs with a playcount of 34
+	At Rank #8 is Neighbor Song by Aunt Martha with a playcount of 34
+	At Rank #9 is The Lengths by The Black Keys with a playcount of 33
+	At Rank #10 is The High Road by Broken Bells with a playcount of 33
+emilykmartin's top list:
+	At Rank #1 is Before The Dive by St. Lucia with a playcount of 7
+	At Rank #2 is Oxford Comma by Vampire Weekend with a playcount of 6
+	At Rank #3 is Phantom Limb by The Shins with a playcount of 5
+	At Rank #4 is Second Chance by Peter Bjorn and John with a playcount of 5
+	At Rank #5 is Easy by Real Estate with a playcount of 5
+	At Rank #6 is My Type by Saint Motel with a playcount of 5
+	At Rank #7 is If I Ever Feel Better by Phoenix with a playcount of 4
+	At Rank #8 is Young Folks by Peter Bjorn and John with a playcount of 4
+	At Rank #9 is Fader by The Temper Trap with a playcount of 4
+	At Rank #10 is Always Like This by Bombay Bicycle Club with a playcount of 4
+rlj94's top list:
+	At Rank #1 is Olivia by One Direction with a playcount of 18
+	At Rank #2 is HISTORY by One Direction with a playcount of 17
+	At Rank #3 is Love You Goodbye by One Direction with a playcount of 13
+	At Rank #4 is Lose My Mind by Brett Eldredge with a playcount of 12
+	At Rank #5 is The Fix (feat. Jeremih) by Nelly with a playcount of 12
+	At Rank #6 is Wait For It by Leslie Odom Jr. with a playcount of 12
+	At Rank #7 is Dear Theodosia by Leslie Odom Jr. with a playcount of 12
+	At Rank #8 is End of the Day by One Direction with a playcount of 12
+	At Rank #9 is Drunk On Your Love by Brett Eldredge with a playcount of 10
+	At Rank #10 is I'm Comin' Over by Chris Young with a playcount of 9
+noskillzatall's top list:
+	At Rank #1 is In the Aeroplane Over the Sea by Neutral Milk Hotel with a playcount of 39
+	At Rank #2 is Two-Headed Boy by Neutral Milk Hotel with a playcount of 32
+	At Rank #3 is Power by Kanye West with a playcount of 32
+	At Rank #4 is Holland, 1945 by Neutral Milk Hotel with a playcount of 28
+	At Rank #5 is Communist Daughter by Neutral Milk Hotel with a playcount of 25
+	At Rank #6 is Fight Song by Rachel Platten with a playcount of 23
+	At Rank #7 is Oh Comely by Neutral Milk Hotel with a playcount of 22
+	At Rank #8 is The Fool by Neutral Milk Hotel with a playcount of 21
+	At Rank #9 is 679 (Feat. Remy Boyz) by Fetty Wap with a playcount of 21
+	At Rank #10 is Music To Watch Boys To by Lana Del Rey with a playcount of 21
+CptKrrk's top list:
+	At Rank #1 is All We Have Is Now by The Flaming Lips with a playcount of 4
+	At Rank #2 is Nude by Radiohead with a playcount of 2
+	At Rank #3 is Dream Wanderer's Tune by Deerhoof with a playcount of 2
+	At Rank #4 is New Sneakers by Deerhoof with a playcount of 2
+	At Rank #5 is Morning Bell/Amnesiac by Radiohead with a playcount of 1
+	At Rank #6 is A Punchup at a Wedding (No No No No No No No No) by Radiohead with a playcount of 1
+	At Rank #7 is My Roots Are Strong And Deep by The Microphones with a playcount of 1
+	At Rank #8 is The Good Times Are Killing Me by Modest Mouse with a playcount of 1
+	At Rank #9 is Disconnect the Dots by of Montreal with a playcount of 1
+	At Rank #10 is Instrumental (2) by The Microphones with a playcount of 1
+jaredcordell's top list:
+	At Rank #1 is Focus by Ariana Grande with a playcount of 51
+	At Rank #2 is The Way I Am by Ingrid Michaelson with a playcount of 42
+	At Rank #3 is Lolita by Lana Del Rey with a playcount of 22
+	At Rank #4 is Riverside by Agnes Obel with a playcount of 21
+	At Rank #5 is Seven Nation Army by The White Stripes with a playcount of 15
+	At Rank #6 is Break Free by Ariana Grande with a playcount of 13
+	At Rank #7 is 679 (Feat. Remy Boyz) by Fetty Wap with a playcount of 12
+	At Rank #8 is Working For It by ZHU with a playcount of 11
+	At Rank #9 is Bubblegum Bitch by Marina & the Diamonds with a playcount of 10
+	At Rank #10 is They Don't Love You No More by DJ Khaled with a playcount of 10
+mgraft01's top list:
+	At Rank #1 is Layla by Eric Clapton with a playcount of 3
+	At Rank #2 is Sex and Candy by Marcy Playground with a playcount of 3
+	At Rank #3 is Breath Of Heaven (Mary's Song) by Amy Grant with a playcount of 3
+	At Rank #4 is Stellar by Incubus with a playcount of 3
+	At Rank #5 is Russian Christmas Music by Dallas Wind Symphony with a playcount of 3
+	At Rank #6 is Do I Wanna Know? by Arctic Monkeys with a playcount of 3
+	At Rank #7 is Black Sun by Death Cab for Cutie with a playcount of 3
+	At Rank #8 is Lithium by Nirvana with a playcount of 2
+	At Rank #9 is Blister In The Sun by Violent Femmes with a playcount of 2
+	At Rank #10 is The Hounds Of Winter by Sting with a playcount of 2
+catmvclark's top list:
+	At Rank #1 is Love Yourself by Justin Bieber with a playcount of 4
+	At Rank #2 is Hello by Adele with a playcount of 3
+	At Rank #3 is Sorry by Justin Bieber with a playcount of 3
+	At Rank #4 is Someone Like You by Adele with a playcount of 2
+	At Rank #5 is Home by Johnnyswim with a playcount of 2
+	At Rank #6 is Don't Wanna Be Your Girl by Wet with a playcount of 2
+	At Rank #7 is Budapest - Live from Spotify Stockholm by George Ezra with a playcount of 2
+	At Rank #8 is New Americana by Halsey with a playcount of 2
+	At Rank #9 is Slip by Elliot Moss with a playcount of 2
+	At Rank #10 is Hold Me Down by Halsey with a playcount of 2
+BurgerWilliams's top list:
+	At Rank #1 is '82 by Stone Sour with a playcount of 88
+	At Rank #2 is The Eco-Terrorist in Me by Rise Against with a playcount of 81
+	At Rank #3 is I Don't Want to be Here Anymore by Rise Against with a playcount of 77
+	At Rank #4 is Do Me A Favor by Stone Sour with a playcount of 76
+	At Rank #5 is The Uncanny Valley by Stone Sour with a playcount of 76
+	At Rank #6 is Long Forgotten Sons by Rise Against with a playcount of 75
+	At Rank #7 is The Great Die-Off by Rise Against with a playcount of 72
+	At Rank #8 is Re-Education (Through Labor) by Rise Against with a playcount of 69
+	At Rank #9 is Zero Visibility by Rise Against with a playcount of 68
+	At Rank #10 is Tragedy + Time by Rise Against with a playcount of 65
+MattClarke's top list:
+	At Rank #1 is Crystalised by The xx with a playcount of 12
+	At Rank #2 is Bull Black Nova by Wilco with a playcount of 12
+	At Rank #3 is W.T.O. by Big Fresh with a playcount of 12
+	At Rank #4 is 2199 by Big Fresh with a playcount of 12
+	At Rank #5 is I Know You're There by Big Fresh with a playcount of 12
+	At Rank #6 is Common People by Pulp with a playcount of 11
+	At Rank #7 is Joy Bomb #1 by Big Fresh with a playcount of 11
+	At Rank #8 is Teenage Riot by Sonic Youth with a playcount of 10
+	At Rank #9 is Notice by Gomez with a playcount of 10
+	At Rank #10 is See the World by Gomez with a playcount of 10
+karmapolice41's top list:
+	At Rank #1 is Decatur, or, Round of Applause for Your Stepmother! by Sufjan Stevens with a playcount of 115
+	At Rank #2 is Sleight Of Hand by Pearl Jam with a playcount of 88
+	At Rank #3 is Bedouin Dress by Fleet Foxes with a playcount of 82
+	At Rank #4 is The Obvious Child by Paul Simon with a playcount of 80
+	At Rank #5 is The Temptation of Adam by Josh Ritter with a playcount of 76
+	At Rank #6 is Obstacle 1 by Interpol with a playcount of 74
+	At Rank #7 is You Enjoy Myself by Phish with a playcount of 74
+	At Rank #8 is You Are a Tourist by Death Cab for Cutie with a playcount of 73
+	At Rank #9 is Ragged Wood by Fleet Foxes with a playcount of 70
+	At Rank #10 is In My Tree by Pearl Jam with a playcount of 69
+Sancho1526's top list:
+	At Rank #1 is Dareh Meyod by O.A.R. with a playcount of 275
+	At Rank #2 is That Was a Crazy Game of Poker by O.A.R. with a playcount of 256
+	At Rank #3 is Hey Girl by O.A.R. with a playcount of 244
+	At Rank #4 is I Feel Home by O.A.R. with a playcount of 231
+	At Rank #5 is Missing Pieces by O.A.R. with a playcount of 206
+	At Rank #6 is About Mr. Brown by O.A.R. with a playcount of 185
+	At Rank #7 is Conquering Fools by O.A.R. with a playcount of 167
+	At Rank #8 is Black Rock by O.A.R. with a playcount of 167
+	At Rank #9 is City On Down by O.A.R. with a playcount of 164
+	At Rank #10 is Ran Away to the Top of the World Today by O.A.R. with a playcount of 159
+bigbakedbean's top list:
+	At Rank #1 is David by The Radio Dept. with a playcount of 114
+	At Rank #2 is Careful by Guster with a playcount of 93
+	At Rank #3 is Modern Mystery by Someone Still Loves You Boris Yeltsin with a playcount of 90
+	At Rank #4 is Some Constellation by Someone Still Loves You Boris Yeltsin with a playcount of 89
+	At Rank #5 is Center of Attention by Guster with a playcount of 88
+	At Rank #6 is No Time for Talk by Oh No Oh My with a playcount of 85
+	At Rank #7 is You Could Write a Book by Someone Still Loves You Boris Yeltsin with a playcount of 83
+	At Rank #8 is A story of Nashville by Oblio with a playcount of 82
+	At Rank #9 is Walking Into Me by Oh No Oh My with a playcount of 81
+	At Rank #10 is Some Folks Are Communists by Oblio with a playcount of 81
+constableangua's top list:
+	At Rank #1 is Caitlin by Jamaican Queens with a playcount of 9
+	At Rank #2 is Hey Mami by Sylvan Esso with a playcount of 8
+	At Rank #3 is Reaper Man by Mother Mother with a playcount of 6
+	At Rank #4 is Some Big Stranger by Fruit Juice with a playcount of 6
+	At Rank #5 is Sweet Revenge by John Prine with a playcount of 5
+	At Rank #6 is Lukatar by Lady Leshurr with a playcount of 5
+	At Rank #7 is Southwood Plantation Road by The Mountain Goats with a playcount of 4
+	At Rank #8 is Little Prince by Andrew Jackson Jihad with a playcount of 4
+	At Rank #9 is Could I Be by Sylvan Esso with a playcount of 4
+	At Rank #10 is Une année sans lumière by Arcade Fire with a playcount of 3
+alexmorehellyes's top list:
+	At Rank #1 is Backseat Freestyle by Kendrick Lamar with a playcount of 123
+	At Rank #2 is i by Kendrick Lamar with a playcount of 93
+	At Rank #3 is Fuckin' Problems feat. Drake, 2 Chainz & Kendrick Lamar by A$AP Rocky with a playcount of 86
+	At Rank #4 is 6 Foot 7 Foot (Freestyle) (Feat. ScHoolboy Q) by Kendrick Lamar with a playcount of 70
+	At Rank #5 is 1 Train feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T. by A$AP Rocky with a playcount of 64
+	At Rank #6 is The Blacker the Berry by Kendrick Lamar with a playcount of 64
+	At Rank #7 is Favorite Song (ft. Childish Gambino) by Chance the Rapper with a playcount of 57
+	At Rank #8 is King Kunta by Kendrick Lamar with a playcount of 57
+	At Rank #9 is m.A.A.d city (feat. MC Eiht) by Kendrick Lamar with a playcount of 54
+	At Rank #10 is Good Ass Intro (ft. BJ The Chicago Kid, Lili K., Kiara Lanier, Peter Cottontale, Will for the O'mys, & JP Floydd for Kids These Days) by Chance the Rapper with a playcount of 49
+PrincessZelie's top list:
+	At Rank #1 is Holiest (feat. Tei-Shi) by Glass Animals with a playcount of 12
+	At Rank #2 is Slacks by St. South with a playcount of 7
+	At Rank #3 is Spirit Cold by Tall Heights with a playcount of 7
+	At Rank #4 is Waiting Game by Banks with a playcount of 6
+	At Rank #5 is Coffee by Sylvan Esso with a playcount of 6
+	At Rank #6 is Soak by Gems with a playcount of 6
+	At Rank #7 is Hunger of the Pine by alt-J with a playcount of 5
+	At Rank #8 is Drifting by On An On with a playcount of 5
+	At Rank #9 is 101 Vultures by Alex Winston with a playcount of 5
+	At Rank #10 is Tide Teeth by Night Beds with a playcount of 5
+ammitchell19's top list:
+	At Rank #1 is Sorry by Justin Bieber with a playcount of 5
+	At Rank #2 is I'll Show You by Justin Bieber with a playcount of 4
+	At Rank #3 is Love Yourself by Justin Bieber with a playcount of 4
+	At Rank #4 is Company by Justin Bieber with a playcount of 4
+	At Rank #5 is BURNITUP! (feat. Missy Elliott) by Janet Jackson with a playcount of 3
+	At Rank #6 is Mine by Beyoncé with a playcount of 2
+	At Rank #7 is Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) by David Guetta with a playcount of 2
+	At Rank #8 is Stitches by Shawn Mendes with a playcount of 2
+	At Rank #9 is Comfortable by K Camp with a playcount of 2
+	At Rank #10 is Hello by Adele with a playcount of 2
+drooraleigh's top list:
+	At Rank #1 is Pastoral by Moondog with a playcount of 378
+	At Rank #2 is All I Need by Radiohead with a playcount of 103
+	At Rank #3 is Closer by Nine Inch Nails with a playcount of 56
+	At Rank #4 is Good Friday by Why? with a playcount of 56
+	At Rank #5 is Piggy by Nine Inch Nails with a playcount of 46
+	At Rank #6 is Fifth Ave by Gold Panda with a playcount of 38
+	At Rank #7 is Triangle Cloud by Gold Panda with a playcount of 37
+	At Rank #8 is Faust Arp by Radiohead with a playcount of 35
+	At Rank #9 is Lonely Owl by Gold Panda with a playcount of 35
+	At Rank #10 is You by Gold Panda with a playcount of 35
+ebhack17's top list:
+astep969's top list:
+	At Rank #1 is $ave Dat Money (Feat. Fetty Wap & RIch Homie Quan) by Lil Dicky with a playcount of 4
+	At Rank #2 is Pipe It Up by Migos with a playcount of 3
+	At Rank #3 is So Far Away by Staind with a playcount of 2
+	At Rank #4 is Ten Thousand Words by The Avett Brothers with a playcount of 2
+	At Rank #5 is Helluva Life by Frankie Ballard with a playcount of 2
+	At Rank #6 is How You Remind Me by Nickelback with a playcount of 1
+	At Rank #7 is It's Been Awhile by Staind with a playcount of 1
+	At Rank #8 is I Want You to Want Me by Cheap Trick with a playcount of 1
+	At Rank #9 is Acoustic #3 by Goo Goo Dolls with a playcount of 1
+	At Rank #10 is Emily by Bowling for Soup with a playcount of 1
+clurgur's top list:
+	At Rank #1 is Born On Fire by Ike Reilly with a playcount of 14
+	At Rank #2 is Dolly Dawn by Ben Sollee with a playcount of 7
+	At Rank #3 is I Killed Sally's Lover by The Avett Brothers with a playcount of 6
+	At Rank #4 is Home by Edward Sharpe & The Magnetic Zeros with a playcount of 6
+	At Rank #5 is I Lost It by Lucinda Williams with a playcount of 5
+	At Rank #6 is Don't Know Why by Norah Jones with a playcount of 5
+	At Rank #7 is Gulf Coast Highway by Nanci Griffith with a playcount of 5
+	At Rank #8 is Bella Donna by The Avett Brothers with a playcount of 5
+	At Rank #9 is Green, Green Rocky Road by Oscar Isaac with a playcount of 5
+	At Rank #10 is Letting Go by Ben Sollee with a playcount of 5
+bccblr's top list:
+	At Rank #1 is 1979 by The Smashing Pumpkins with a playcount of 85
+	At Rank #2 is Don't Know Why by Norah Jones with a playcount of 83
+	At Rank #3 is Blackest Sky by Mansions with a playcount of 81
+	At Rank #4 is Yer Voice by Mansions with a playcount of 74
+	At Rank #5 is Broadripple Is Burning by Margot & the Nuclear So and So's with a playcount of 70
+	At Rank #6 is Skinny Love by Bon Iver with a playcount of 65
+	At Rank #7 is The Bellhop by Pomegranates with a playcount of 64
+	At Rank #8 is Come Pick Me Up by Ryan Adams with a playcount of 60
+	At Rank #9 is In the Kitchen by Pomegranates with a playcount of 60
+	At Rank #10 is Closing Time by Semisonic with a playcount of 53
+nconway0123's top list:
+	At Rank #1 is Just Passing Through by Jason Aldean with a playcount of 20
+	At Rank #2 is Country Boy's World by Jason Aldean with a playcount of 16
+	At Rank #3 is Church Pew Or Bar Stool by Jason Aldean with a playcount of 13
+	At Rank #4 is Somewhere Only We Know by Dan + Shay with a playcount of 12
+	At Rank #5 is Parking Brake by Dan + Shay with a playcount of 11
+	At Rank #6 is Nothin' Like You by Dan + Shay with a playcount of 10
+	At Rank #7 is Lucky by Britney Spears with a playcount of 8
+	At Rank #8 is I Ain't Ready To Quit by Jason Aldean with a playcount of 8
+	At Rank #9 is Fly Over States by Jason Aldean with a playcount of 8
+	At Rank #10 is He Stopped Loving Her Today by George Jones with a playcount of 7
+ryonbean's top list:
+	At Rank #1 is Jar of Hearts by Christina Perri with a playcount of 1
+evankwagner's top list:
+atisaac2's top list:
+	At Rank #1 is All the Earth by Jessica Curry with a playcount of 15
+	At Rank #2 is Finding the Pattern by Jessica Curry with a playcount of 14
+	At Rank #3 is The Mourning Tree by Jessica Curry with a playcount of 12
+	At Rank #4 is Liquid Light by Jessica Curry with a playcount of 11
+	At Rank #5 is The Sleep of Death by Jessica Curry with a playcount of 11
+	At Rank #6 is For Ever by Jessica Curry with a playcount of 11
+	At Rank #7 is Disappearing by Jessica Curry with a playcount of 11
+	At Rank #8 is All of My Birds by Jessica Curry with a playcount of 10
+	At Rank #9 is A Choice by Jessica Curry with a playcount of 10
+	At Rank #10 is The Seventh Whistler by Jessica Curry with a playcount of 10
+graham117's top list:
+	At Rank #1 is Know Yourself by Drake with a playcount of 38
+	At Rank #2 is L$D by A$AP Rocky with a playcount of 29
+	At Rank #3 is Excuse Me by A$AP Rocky with a playcount of 26
+	At Rank #4 is Everyday by A$AP Rocky with a playcount of 24
+	At Rank #5 is The Hills by The Weeknd with a playcount of 24
+	At Rank #6 is Lord Pretty Flacko Jodye 2 (LPFJ2) by A$AP Rocky with a playcount of 22
+	At Rank #7 is Electric Body by A$AP Rocky with a playcount of 22
+	At Rank #8 is Real Sisters by Future with a playcount of 22
+	At Rank #9 is Holy Ghost by A$AP Rocky with a playcount of 21
+	At Rank #10 is Jukebox Joints by A$AP Rocky with a playcount of 21
+tdbrandenburg's top list:
+	At Rank #1 is Dear Sergio by Streetlight Manifesto with a playcount of 1
+	At Rank #2 is Ungrateful by Streetlight Manifesto with a playcount of 1
+	At Rank #3 is Confessions (feat. Leland Whitty) by BADBADNOTGOOD with a playcount of 1
+xLeachimx's top list:
+	At Rank #1 is Sweet Transvestite by Soundtrack with a playcount of 3
+	At Rank #2 is Falling In Hate by Five Finger Death Punch with a playcount of 2
+	At Rank #3 is Scary Monsters (And Super Creeps) (1999 Remastered Version) by David Bowie with a playcount of 2
+	At Rank #4 is Bück Dich by Rammstein with a playcount of 1
+	At Rank #5 is Feuer frei! by Rammstein with a playcount of 1
+	At Rank #6 is Ich will by Rammstein with a playcount of 1
+	At Rank #7 is Sehnsucht by Rammstein with a playcount of 1
+	At Rank #8 is Piano Man by Billy Joel with a playcount of 1
+	At Rank #9 is Rammstein by Rammstein with a playcount of 1
+	At Rank #10 is The Ballad Of Billy The Kid by Billy Joel with a playcount of 1
+michaelsoder21's top list:
+	At Rank #1 is Lay Me Down by The Dirty Heads with a playcount of 1
+	At Rank #2 is Synthesizers by Butch Walker and The Black Widows with a playcount of 1
+	At Rank #3 is Sophie by Bear's Den with a playcount of 1
+	At Rank #4 is Brother by NEEDTOBREATHE with a playcount of 1
+	At Rank #5 is Home/Dirty Paws by Gardiner Sisters with a playcount of 1
+	At Rank #6 is Tiger Striped Sky by Roo Panes with a playcount of 1
+	At Rank #7 is Bloom - Bonus Track by The Paper Kites with a playcount of 1
+	At Rank #8 is On the Frame by Beta Radio with a playcount of 1
+	At Rank #9 is Worlds On Fire by Zerbin with a playcount of 1
+	At Rank #10 is Dream by Cro with a playcount of 1
+summasmiff's top list:
+	At Rank #1 is Marijuana by Chrome Sparks with a playcount of 2
+	At Rank #2 is Your Planet by Chrome Sparks with a playcount of 2
+	At Rank #3 is Cosmic Claps of Love by Chrome Sparks with a playcount of 2
+	At Rank #4 is Moonraker by Chrome Sparks with a playcount of 2
+	At Rank #5 is Ride The White Lightning by Chrome Sparks with a playcount of 2
+	At Rank #6 is Give It Up by Chrome Sparks with a playcount of 2
+	At Rank #7 is Eurochild by Massive Attack with a playcount of 1
+	At Rank #8 is Involution by Mirwais with a playcount of 1
+	At Rank #9 is O-Zone by MC 900 Ft Jesus with a playcount of 1
+	At Rank #10 is Fiercely Independent by Shantel with a playcount of 1
+DONE
+admins-MacBook-Pro:lastfm-data admin$ python csv-reader.py
+rcsouthard's top list:
+At Rank #1 is Lifeformed with a playcount of 346
+At Rank #2 is Austin Wintory with a playcount of 328
+At Rank #3 is The Gaslight Anthem with a playcount of 267
+At Rank #4 is Tool with a playcount of 236
+At Rank #5 is R.E.M. with a playcount of 167
+At Rank #6 is Loscil with a playcount of 165
+At Rank #7 is Trent Reznor and Atticus Ross with a playcount of 163
+At Rank #8 is Radiohead with a playcount of 160
+At Rank #9 is Jessica Curry with a playcount of 160
+At Rank #10 is Beastie Boys with a playcount of 118
+cheshire137's top list:
+At Rank #1 is Nine Inch Nails with a playcount of 1397
+At Rank #2 is Portishead with a playcount of 1144
+At Rank #3 is Toru Minegishi, Asuka Ohta, Koji Kondo with a playcount of 973
+At Rank #4 is Yelle with a playcount of 857
+At Rank #5 is Massive Attack with a playcount of 789
+At Rank #6 is Goldfrapp with a playcount of 785
+At Rank #7 is Chris Vrenna with a playcount of 748
+At Rank #8 is Jason Tai with a playcount of 671
+At Rank #9 is Enya with a playcount of 667
+At Rank #10 is Blue Foundation with a playcount of 658
+aakksshhaayy's top list:
+alexcheser's top list:
+At Rank #1 is Kylie Minogue with a playcount of 882
+At Rank #2 is Tove Lo with a playcount of 868
+At Rank #3 is Röyksopp with a playcount of 841
+At Rank #4 is Medina with a playcount of 832
+At Rank #5 is Zara Larsson with a playcount of 795
+At Rank #6 is Alphabeat with a playcount of 774
+At Rank #7 is Yelle with a playcount of 719
+At Rank #8 is Danny Saucedo with a playcount of 694
+At Rank #9 is Loreen with a playcount of 683
+At Rank #10 is The Sound of Arrows with a playcount of 680
+xLeachimx's top list:
+At Rank #1 is Five Finger Death Punch with a playcount of 10
+At Rank #2 is Rammstein with a playcount of 6
+At Rank #3 is Soundtrack with a playcount of 5
+At Rank #4 is Billy Joel with a playcount of 5
+At Rank #5 is David Bowie with a playcount of 2
+At Rank #6 is Lamb of God with a playcount of 2
+At Rank #7 is [unknown] with a playcount of 1
+wjlloyd16's top list:
+At Rank #1 is Dan + Shay with a playcount of 6
+At Rank #2 is Lee Brice with a playcount of 5
+At Rank #3 is Owl City with a playcount of 4
+At Rank #4 is Gloriana with a playcount of 3
+At Rank #5 is Jake Owen with a playcount of 3
+At Rank #6 is Timothy Baker with a playcount of 3
+At Rank #7 is blink-182 with a playcount of 2
+At Rank #8 is Switchfoot with a playcount of 2
+At Rank #9 is Steven Curtis Chapman with a playcount of 2
+At Rank #10 is Drake with a playcount of 2
+azadams's top list:
+At Rank #1 is OutKast with a playcount of 29
+At Rank #2 is Drunks and Dragons with a playcount of 27
+At Rank #3 is Steelers Podcast - The Terrible Podcast with a playcount of 24
+At Rank #4 is Nathaniel Rateliff with a playcount of 21
+At Rank #5 is The Bill Simmons Podcast with a playcount of 18
+At Rank #6 is Foo Fighters with a playcount of 12
+At Rank #7 is blink-182 with a playcount of 10
+At Rank #8 is Bob Seger & The Silver Bullet Band with a playcount of 9
+At Rank #9 is KSR Show with a playcount of 9
+At Rank #10 is 90s allstars with a playcount of 8
+sugarfizzpop's top list:
+tdbrandenburg's top list:
+At Rank #1 is Streetlight Manifesto with a playcount of 2
+At Rank #2 is BADBADNOTGOOD with a playcount of 1
+jillgraeter's top list:
+mudrak4's top list:
+At Rank #1 is Amos Lee with a playcount of 477
+At Rank #2 is Bonobo with a playcount of 471
+At Rank #3 is Toro y Moi with a playcount of 403
+At Rank #4 is Tycho with a playcount of 377
+At Rank #5 is Band of Horses with a playcount of 360
+At Rank #6 is The War on Drugs with a playcount of 346
+At Rank #7 is Tame Impala with a playcount of 313
+At Rank #8 is Iron & Wine with a playcount of 288
+At Rank #9 is Real Estate with a playcount of 280
+At Rank #10 is Mac DeMarco with a playcount of 276
+emilykmartin's top list:
+At Rank #1 is Ben Sollee with a playcount of 23
+At Rank #2 is St. Lucia with a playcount of 15
+At Rank #3 is The Shins with a playcount of 12
+At Rank #4 is Peter Bjorn and John with a playcount of 9
+At Rank #5 is Redbird with a playcount of 9
+At Rank #6 is Phoenix with a playcount of 8
+At Rank #7 is Passion Pit with a playcount of 8
+At Rank #8 is Two Door Cinema Club with a playcount of 8
+At Rank #9 is Band of Horses with a playcount of 7
+At Rank #10 is Real Estate with a playcount of 6
+rlj94's top list:
+At Rank #1 is One Direction with a playcount of 157
+At Rank #2 is Leslie Odom Jr. with a playcount of 69
+At Rank #3 is Lin-Manuel Miranda with a playcount of 39
+At Rank #4 is Chris Young with a playcount of 36
+At Rank #5 is Phillipa Soo with a playcount of 32
+At Rank #6 is Original Broadway Cast of Hamilton with a playcount of 28
+At Rank #7 is Christopher Jackson with a playcount of 26
+At Rank #8 is Anthony Ramos with a playcount of 23
+At Rank #9 is Brett Eldredge with a playcount of 22
+At Rank #10 is The Avett Brothers with a playcount of 20
+noskillzatall's top list:
+At Rank #1 is Lana Del Rey with a playcount of 501
+At Rank #2 is Neutral Milk Hotel with a playcount of 340
+At Rank #3 is Drake with a playcount of 272
+At Rank #4 is Childish Gambino with a playcount of 195
+At Rank #5 is AFI with a playcount of 185
+At Rank #6 is Modest Mouse with a playcount of 170
+At Rank #7 is Kanye West with a playcount of 154
+At Rank #8 is Dido with a playcount of 141
+At Rank #9 is Wiz Khalifa with a playcount of 138
+At Rank #10 is Arcade Fire with a playcount of 124
+CptKrrk's top list:
+At Rank #1 is The Flaming Lips with a playcount of 6
+At Rank #2 is Deerhoof with a playcount of 6
+At Rank #3 is Radiohead with a playcount of 5
+At Rank #4 is The Antlers with a playcount of 4
+At Rank #5 is The Microphones with a playcount of 2
+At Rank #6 is Animal Collective with a playcount of 2
+At Rank #7 is Lorn with a playcount of 2
+At Rank #8 is Tame Impala with a playcount of 2
+At Rank #9 is Modest Mouse with a playcount of 1
+At Rank #10 is of Montreal with a playcount of 1
+jaredcordell's top list:
+At Rank #1 is Ariana Grande with a playcount of 97
+At Rank #2 is Pentatonix with a playcount of 49
+At Rank #3 is Ingrid Michaelson with a playcount of 42
+At Rank #4 is Lana Del Rey with a playcount of 39
+At Rank #5 is The White Stripes with a playcount of 37
+At Rank #6 is Agnes Obel with a playcount of 31
+At Rank #7 is Foxes with a playcount of 23
+At Rank #8 is Regina Spektor with a playcount of 18
+At Rank #9 is David Guetta with a playcount of 16
+At Rank #10 is Melanie Martinez with a playcount of 14
+mgraft01's top list:
+At Rank #1 is Sting with a playcount of 18
+At Rank #2 is Death Cab for Cutie with a playcount of 16
+At Rank #3 is Stone Temple Pilots with a playcount of 14
+At Rank #4 is Eric Clapton with a playcount of 8
+At Rank #5 is Incubus with a playcount of 5
+At Rank #6 is Amy Grant with a playcount of 4
+At Rank #7 is R.E.M. with a playcount of 4
+At Rank #8 is Arctic Monkeys with a playcount of 4
+At Rank #9 is Sergei Oskolkov with a playcount of 4
+At Rank #10 is Red Hot Chili Peppers with a playcount of 3
+catmvclark's top list:
+At Rank #1 is One Direction with a playcount of 16
+At Rank #2 is Adele with a playcount of 13
+At Rank #3 is Justin Bieber with a playcount of 13
+At Rank #4 is Halsey with a playcount of 13
+At Rank #5 is Cœur de Pirate with a playcount of 9
+At Rank #6 is Wet with a playcount of 3
+At Rank #7 is Eminem with a playcount of 2
+At Rank #8 is John Mayer with a playcount of 2
+At Rank #9 is Drake with a playcount of 2
+At Rank #10 is The Neighbourhood with a playcount of 2
+BurgerWilliams's top list:
+At Rank #1 is Rise Against with a playcount of 3738
+At Rank #2 is Stone Sour with a playcount of 1286
+At Rank #3 is Rush with a playcount of 1069
+At Rank #4 is Sum 41 with a playcount of 836
+At Rank #5 is Manchester Orchestra with a playcount of 751
+At Rank #6 is Chevelle with a playcount of 716
+At Rank #7 is Modest Mouse with a playcount of 707
+At Rank #8 is NOFX with a playcount of 554
+At Rank #9 is Soilwork with a playcount of 524
+At Rank #10 is Breaking Benjamin with a playcount of 498
+MattClarke's top list:
+At Rank #1 is Big Fresh with a playcount of 268
+At Rank #2 is Sonic Youth with a playcount of 189
+At Rank #3 is The Beatles with a playcount of 189
+At Rank #4 is Belle and Sebastian with a playcount of 185
+At Rank #5 is R. Stevie Moore with a playcount of 127
+At Rank #6 is Air with a playcount of 115
+At Rank #7 is The Beach Boys with a playcount of 103
+At Rank #8 is Radiohead with a playcount of 100
+At Rank #9 is The Apples in Stereo with a playcount of 100
+At Rank #10 is Portugal. The Man with a playcount of 99
+karmapolice41's top list:
+At Rank #1 is Phish with a playcount of 5552
+At Rank #2 is Pearl Jam with a playcount of 3089
+At Rank #3 is Radiohead with a playcount of 2800
+At Rank #4 is Sufjan Stevens with a playcount of 2419
+At Rank #5 is Death Cab for Cutie with a playcount of 1916
+At Rank #6 is John Mayer with a playcount of 1811
+At Rank #7 is Coldplay with a playcount of 1724
+At Rank #8 is Dave Matthews Band with a playcount of 1662
+At Rank #9 is The Avett Brothers with a playcount of 1530
+At Rank #10 is Paul Simon with a playcount of 1247
+Sancho1526's top list:
+At Rank #1 is O.A.R. with a playcount of 6900
+At Rank #2 is Guster with a playcount of 3133
+At Rank #3 is Dispatch with a playcount of 2887
+At Rank #4 is Five Iron Frenzy with a playcount of 1462
+At Rank #5 is The Decemberists with a playcount of 1434
+At Rank #6 is P.O.S. with a playcount of 1237
+At Rank #7 is Arctic Monkeys with a playcount of 1172
+At Rank #8 is Jack Johnson with a playcount of 1002
+At Rank #9 is The Avett Brothers with a playcount of 886
+At Rank #10 is Mumford & Sons with a playcount of 859
+bigbakedbean's top list:
+At Rank #1 is Mates of State with a playcount of 2249
+At Rank #2 is Stars with a playcount of 2190
+At Rank #3 is Guster with a playcount of 2184
+At Rank #4 is Radiohead with a playcount of 1985
+At Rank #5 is Dawes with a playcount of 1646
+At Rank #6 is Menomena with a playcount of 1614
+At Rank #7 is Someone Still Loves You Boris Yeltsin with a playcount of 1507
+At Rank #8 is Headlights with a playcount of 1431
+At Rank #9 is The Radio Dept. with a playcount of 1420
+At Rank #10 is Dr. Dog with a playcount of 1400
+constableangua's top list:
+At Rank #1 is Andrew Jackson Jihad with a playcount of 25
+At Rank #2 is Sylvan Esso with a playcount of 21
+At Rank #3 is The Mountain Goats with a playcount of 17
+At Rank #4 is Coma Cinema with a playcount of 16
+At Rank #5 is Jamaican Queens with a playcount of 13
+At Rank #6 is Fruit Juice with a playcount of 13
+At Rank #7 is The Decemberists with a playcount of 12
+At Rank #8 is DakhaBrakha with a playcount of 12
+At Rank #9 is Elvis Depressedly with a playcount of 11
+At Rank #10 is Belle and Sebastian with a playcount of 9
+alexmorehellyes's top list:
+At Rank #1 is Kendrick Lamar with a playcount of 1765
+At Rank #2 is A$AP Rocky with a playcount of 686
+At Rank #3 is Lil' Wayne with a playcount of 637
+At Rank #4 is Fall Out Boy with a playcount of 617
+At Rank #5 is Jay Rock with a playcount of 553
+At Rank #6 is Chance the Rapper with a playcount of 497
+At Rank #7 is Ab-Soul with a playcount of 450
+At Rank #8 is 2 Chainz with a playcount of 417
+At Rank #9 is Black Flag with a playcount of 416
+At Rank #10 is Tech N9ne with a playcount of 402
+PrincessZelie's top list:
+At Rank #1 is Glass Animals with a playcount of 14
+At Rank #2 is Mree with a playcount of 12
+At Rank #3 is Enya with a playcount of 11
+At Rank #4 is Banks with a playcount of 11
+At Rank #5 is Gems with a playcount of 11
+At Rank #6 is alt-J with a playcount of 10
+At Rank #7 is St. South with a playcount of 9
+At Rank #8 is Night Beds with a playcount of 8
+At Rank #9 is The Kite String Tangle with a playcount of 8
+At Rank #10 is Lorde with a playcount of 7
+ammitchell19's top list:
+At Rank #1 is Justin Bieber with a playcount of 37
+At Rank #2 is Beyoncé with a playcount of 7
+At Rank #3 is Drake with a playcount of 4
+At Rank #4 is The Weeknd with a playcount of 4
+At Rank #5 is Janet Jackson with a playcount of 3
+At Rank #6 is Usher with a playcount of 3
+At Rank #7 is Miguel with a playcount of 3
+At Rank #8 is Trey Songz with a playcount of 3
+At Rank #9 is One Direction with a playcount of 3
+At Rank #10 is Future with a playcount of 2
+drooraleigh's top list:
+At Rank #1 is Eels with a playcount of 1010
+At Rank #2 is Gold Panda with a playcount of 760
+At Rank #3 is Radiohead with a playcount of 722
+At Rank #4 is Nine Inch Nails with a playcount of 566
+At Rank #5 is Beck with a playcount of 421
+At Rank #6 is Why? with a playcount of 414
+At Rank #7 is Moondog with a playcount of 378
+At Rank #8 is Gorillaz with a playcount of 351
+At Rank #9 is Cold War Kids with a playcount of 268
+At Rank #10 is Grouper with a playcount of 234
+ebhack17's top list:
+astep969's top list:
+At Rank #1 is The Avett Brothers with a playcount of 24
+At Rank #2 is Imagine Dragons with a playcount of 10
+At Rank #3 is Frankie Ballard with a playcount of 9
+At Rank #4 is Bowling for Soup with a playcount of 8
+At Rank #5 is George Strait with a playcount of 5
+At Rank #6 is Migos with a playcount of 5
+At Rank #7 is Lil Dicky with a playcount of 5
+At Rank #8 is Staind with a playcount of 3
+At Rank #9 is Sundy Best with a playcount of 3
+At Rank #10 is Cheap Trick with a playcount of 2
+clurgur's top list:
+At Rank #1 is Frank Sinatra with a playcount of 59
+At Rank #2 is Ben Sollee with a playcount of 17
+At Rank #3 is The Avett Brothers with a playcount of 16
+At Rank #4 is Ike Reilly with a playcount of 14
+At Rank #5 is Norah Jones with a playcount of 9
+At Rank #6 is Nanci Griffith with a playcount of 9
+At Rank #7 is Lucinda Williams with a playcount of 8
+At Rank #8 is Childish Gambino with a playcount of 8
+At Rank #9 is Alabama Shakes with a playcount of 8
+At Rank #10 is J. Cole with a playcount of 7
+bccblr's top list:
+At Rank #1 is Mansions with a playcount of 1382
+At Rank #2 is Pomegranates with a playcount of 1055
+At Rank #3 is Tegan and Sara with a playcount of 876
+At Rank #4 is Manchester Orchestra with a playcount of 525
+At Rank #5 is City and Colour with a playcount of 462
+At Rank #6 is Third Eye Blind with a playcount of 413
+At Rank #7 is All Get Out with a playcount of 390
+At Rank #8 is Band of Horses with a playcount of 387
+At Rank #9 is Bon Iver with a playcount of 383
+At Rank #10 is Passion Pit with a playcount of 378
+nconway0123's top list:
+At Rank #1 is Jason Aldean with a playcount of 96
+At Rank #2 is Dan + Shay with a playcount of 56
+At Rank #3 is Justin Moore with a playcount of 55
+At Rank #4 is George Jones with a playcount of 49
+At Rank #5 is Drake with a playcount of 40
+At Rank #6 is Conway Twitty with a playcount of 29
+At Rank #7 is J. Cole with a playcount of 22
+At Rank #8 is Alan Jackson with a playcount of 21
+At Rank #9 is Usher with a playcount of 19
+At Rank #10 is Bryson Tiller with a playcount of 19
+ryonbean's top list:
+At Rank #1 is Christina Perri with a playcount of 1
+evankwagner's top list:
+atisaac2's top list:
+At Rank #1 is Jessica Curry with a playcount of 190
+At Rank #2 is Jon Benjamin - Jazz Daredevil with a playcount of 3
+At Rank #3 is The Cranberries with a playcount of 2
+At Rank #4 is Frank Sinatra with a playcount of 1
+At Rank #5 is Nash with a playcount of 1
+At Rank #6 is Michael Giacchino with a playcount of 1
+At Rank #7 is Iron & Wine with a playcount of 1
+At Rank #8 is Band of Horses with a playcount of 1
+At Rank #9 is Noah and the Whale with a playcount of 1
+graham117's top list:
+At Rank #1 is A$AP Rocky with a playcount of 395
+At Rank #2 is Future with a playcount of 201
+At Rank #3 is The Weeknd with a playcount of 198
+At Rank #4 is Earl Sweatshirt with a playcount of 194
+At Rank #5 is Kanye West with a playcount of 138
+At Rank #6 is Counting Crows with a playcount of 124
+At Rank #7 is Kendrick Lamar with a playcount of 101
+At Rank #8 is Drake with a playcount of 82
+At Rank #9 is Weezer with a playcount of 72
+At Rank #10 is Tyler, the Creator with a playcount of 71
+tdbrandenburg's top list:
+At Rank #1 is Streetlight Manifesto with a playcount of 2
+At Rank #2 is BADBADNOTGOOD with a playcount of 1
+xLeachimx's top list:
+At Rank #1 is Five Finger Death Punch with a playcount of 10
+At Rank #2 is Rammstein with a playcount of 6
+At Rank #3 is Soundtrack with a playcount of 5
+At Rank #4 is Billy Joel with a playcount of 5
+At Rank #5 is David Bowie with a playcount of 2
+At Rank #6 is Lamb of God with a playcount of 2
+At Rank #7 is [unknown] with a playcount of 1
+michaelsoder21's top list:
+At Rank #1 is Cro with a playcount of 1
+At Rank #2 is NEEDTOBREATHE with a playcount of 1
+At Rank #3 is The Paper Kites with a playcount of 1
+At Rank #4 is Beta Radio with a playcount of 1
+At Rank #5 is The Dirty Heads with a playcount of 1
+At Rank #6 is Dillon Francis with a playcount of 1
+At Rank #7 is Gardiner Sisters with a playcount of 1
+At Rank #8 is Butch Walker and The Black Widows with a playcount of 1
+At Rank #9 is Bear's Den with a playcount of 1
+At Rank #10 is Roo Panes with a playcount of 1
+summasmiff's top list:
+At Rank #1 is Chrome Sparks with a playcount of 19
+At Rank #2 is Eliot Sumner with a playcount of 4
+At Rank #3 is Dzihan & Kamien with a playcount of 3
+At Rank #4 is Lemongrass with a playcount of 2
+At Rank #5 is Tetris with a playcount of 2
+At Rank #6 is Sounds from the Ground with a playcount of 2
+At Rank #7 is Lusine with a playcount of 2
+At Rank #8 is Tycho with a playcount of 2
+At Rank #9 is Massive Attack with a playcount of 1
+At Rank #10 is Stereolab with a playcount of 1
+DONE
+admins-MacBook-Pro:lastfm-data admin$ 
