@@ -1,0 +1,37 @@
+// Erik Mudrak, 2016
+// Transy Last.fm users and fields from Google Form: 
+// The form: 
+// https://docs.google.com/a/transy.edu/forms/d/15GdOXBVip7SlYbnYzeFx9a5hbeZ8LQvB3j2ntNgBA2A/edit?usp=drive_web#responses
+
+{
+	// array of last.fm Transy users, replaces need for a csv file with usernames
+	"users": [
+		{
+			"user": "mudrak4" { 
+				"grade": "junior",
+				"hometown": "Georgetown",
+				"state": "KY",
+				"hometown-desc": "mid-urban",
+				"influences": "classic rock",	// array
+				"favorites": "Tame Impala",		// array
+				"gender": "male",
+				"major": "Computer Science",
+				"involvement": [
+					{"greek": "sig"},
+					{"ra": "no"},
+					{"aterm":"yes"},
+					{"athlete":"no"},
+					{"sga":"no"}
+					// More fields go here
+				],
+				"personality": "complex",
+				"mothertaste": "pop",
+				"fathertaste": "classic-rock",
+				"class": "middle-class",
+				"church": "yes"
+			}
+		},
+
+		// more users
+	]
+}

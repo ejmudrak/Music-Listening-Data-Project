@@ -37,7 +37,7 @@ limit = 0
 # limit = 25
 
 ### run python from inside of the lastfm-data folder!
-PAIRS_IN = 'pairs_in.csv'
+PAIRS_IN = 'transy.csv'
 PAIRS_OUT = 'pairs_out.csv'
 
 # Choose the method to print data 
@@ -89,7 +89,7 @@ with open(PAIRS_IN, 'rb') as csvfile:
             lastfm_data = json_data['payload']['lastfm']['data']['toptracks']['track']
         if method == "user.getTopArtists":
             lastfm_data = json_data['payload']['lastfm']['data']['topartists']['artist']
-        if method == "user.getTopArtists": 
+        if method == "user.getTopAlbums": 
             lastfm_data = json_data['payload']['lastfm']['data']['topalbums']['album']
 
         ### Loop through data to print each song/artist/album result 
@@ -119,7 +119,6 @@ with open(PAIRS_IN, 'rb') as csvfile:
             ### check for empty data:
             if not lastfm_data:
                 print "/tThe user's listening history is empty!"
-
 
         ### print ALL of the data to the console:
         #print json_data
